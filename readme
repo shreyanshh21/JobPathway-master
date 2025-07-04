@@ -1,1 +1,39 @@
-read me
+# 👨‍💼 JobPathway – Android Career Guidance App
+
+**A modern Android app to help users explore career paths, understand required skills, and prepare effectively for their future.**
+
+JobPathway provides a guided experience for students and job seekers to explore various professions, assess their strengths, and get suggestions for skills and learning paths. Built using **Kotlin**, **Android Jetpack**, and **RoomDB**, the app offers a sleek UI and offline-first functionality tailored for Indian users.
+
+---
+
+## 📱 Features
+
+- 🔍 Career path suggestions based on user input
+- 🧠 Skill recommendations & self-assessment
+- 📄 Setup & manage user profiles
+- 🔒 Secure login & onboarding screens
+- 💾 Offline support with RoomDB
+- 🎨 Clean Material Design interface
+
+---
+
+## 🛠 Tech Stack
+
+| Layer          | Tech                        |
+|----------------|-----------------------------|
+| Language       | Kotlin                      |
+| Architecture   | MVVM, Jetpack Components    |
+| Database       | RoomDB                      |
+| UI Design      | XML, Material Design        |
+| IDE            | Android Studio              |
+
+---
+
+---
+
+## 📦 Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/shreyanshh21/JobPathway-master.git

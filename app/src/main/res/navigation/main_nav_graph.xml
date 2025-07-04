@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_nav_graph"
+    app:startDestination="@+id/jobListFragment">
+
+    <fragment
+        android:id="@+id/jobListFragment"
+        android:name="com.example.jobpathway.JobListFragment"
+        android:label="JobListFragment" />
+    <fragment
+        android:id="@+id/mySkillsFragment"
+        android:name="com.example.jobpathway.MySkillsFragment"
+        android:label="MySkillsFragment" />
+    <fragment
+        android:id="@+id/myProfile"
+        android:name="com.example.jobpathway.MyProfile"
+        android:label="MyProfile" />
+</navigation>
